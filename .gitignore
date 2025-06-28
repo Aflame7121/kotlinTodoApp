@@ -1,0 +1,39 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin/Android specific
+bin/
+gen/
+out/
+
+# Dependency directories
+/node_modules
+/app/build/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Temp files
+*.swp
+*~
